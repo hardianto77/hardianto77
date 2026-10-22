@@ -12,15 +12,6 @@ By applying clean code principles, automated testing, and efficient CI/CD workfl
 - **AI & Automation**: Autonomous AI agents and multi-agent developer platforms, from frontier-model orchestration to production LLM-integrated applications.
 - **Cloud & DevOps**: Docker containerization, Cloudflare edge tooling (Workers, Pages, Tunnels, D1, R2), and CI/CD pipelines that ship with zero exposed ports.
 
-## 🚀 Featured Work
-
-- **AICoding: Autonomous AI Agents & Developer Platform**: next-generation autonomous AI coding platform powering full-autopilot software engineering, cross-file codebase synthesis, and unified frontier model orchestration (Claude, Gemini, GPT) directly integrated into developer IDEs.
-- **AI Infrastructure in Production**: self-hosted LLM gateway serving multiple providers with automatic failover, usage-aware key rotation, and per-scope prompt control, deployed behind Cloudflare Tunnel with watchdog-automated uptime.
-- **Enterprise Telehealth Ecosystem**: high-concurrency virtual care platform (Go + React) which cut patient wait times by 40% and boosted remote assessment capacity by 55%.
-- **Enterprise BI & Predictive Analytics Suite**: real-time revenue reconciliation and ML-driven forecasting that accelerated data delivery by 45% and improved inventory prediction accuracy by 60%.
-- **Ikuyo Vision: AI-Powered Industrial Quality Inspection**: YOLOv5 + Flask computer-vision pipeline achieving 99.0% real-time detection confidence in low-light manufacturing environments.
-- **AKSARA Learning Management System**: healthcare LMS scaled to 10,000+ active users and 50,000+ course enrollments at 99.9% uptime.
-
 ## 🛠️ Tech Stack
 
 | Layer | Tools |
