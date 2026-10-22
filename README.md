@@ -26,7 +26,7 @@ By applying clean code principles, automated testing, and efficient CI/CD workfl
 | Layer | Tools |
 |-------|-------|
 | Frontend | React, Next.js 14, Astro, TypeScript, Tailwind CSS |
-| Backend & APIs | Laravel, Go, Node.js, Python (FastAPI, Flask), RESTful APIs |
+| Backend & APIs | Go, Node.js, Python (FastAPI, Flask), RESTful APIs |
 | Database & Cache | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
 | AI Infrastructure | LLM API integration, provider routing & failover, SSE streaming, self-hosted inference, prompt engineering |
 | Cloud & DevOps | Docker, Cloudflare (Workers/Pages/Tunnels/D1/R2), CI/CD, VPS provisioning |
